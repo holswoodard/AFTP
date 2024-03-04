@@ -1,0 +1,55 @@
+body {
+
+  
+}
+
+
+
+.headerclass{ 
+font-family: 'Honk', system-ui;
+background-color: #e9cb20;
+padding: 20px;
+ }
+
+.bodycopy{
+font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  padding: 20px;
+background-color: #f4f4f4;
+}
+
+
+.image{
+sidebar-width: 400px;
+border-image-width: 100%;
+font-color: #ffffff;
+background-color: #66666;
+float:right;
+margin-top: 40px;
+
+}
+
+.tracktable{
+width: 75%;
+float: right;
+
+}
+
+.sidebar{
+margin-top: 40px;
+width: 400px;
+background-color: #666666;
+color: #ffffff;
+float: right;
+font-family: "Poppins", sans-serif;
+font-weight: 500px;
+font-style: normal;
+
+}
+
+
+
+
+
+}
